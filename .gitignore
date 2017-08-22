@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# Build directories
+dist/
+
+# Webstorm project directory
+.idea/
