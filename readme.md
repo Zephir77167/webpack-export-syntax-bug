@@ -1,4 +1,4 @@
-## Repository created to reproduce a Webpack issue
+## Repository created to reproduce a [Webpack issue](https://github.com/webpack/webpack/issues/5556)
 
 To reproduce, run:
 
